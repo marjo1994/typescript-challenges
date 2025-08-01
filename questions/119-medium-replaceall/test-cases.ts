@@ -9,3 +9,4 @@ type cases = [
   Expect<Equal<ReplaceAll<'foobarfoobar', 'ob', 'b'>, 'fobarfobar'>>,
   Expect<Equal<ReplaceAll<'', '', ''>, ''>>,
 ]
+

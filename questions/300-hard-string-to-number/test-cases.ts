@@ -1,3 +1,4 @@
+
 import { ToNumber } from './template'
 
 type cases = [
